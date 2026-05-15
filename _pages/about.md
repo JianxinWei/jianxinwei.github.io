@@ -19,22 +19,22 @@ I am currently a postdoctoral researcher at Mohamed bin Zayed University of Arti
   <li style="margin-bottom:1.25rem;">
     <strong>SaGD: A Node-Level Differentially Private Graph Learning Framework with Sensitivity-Aware Gradient Descent</strong> <a href="https://github.com/JianxinWei/SaGD" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
     <span style="display:block; margin-top:0.25rem;"><strong>Jianxin Wei</strong>, Ergute Bao, Xiaokui Xiao, Ting Yu</span>
-    <em style="display:block; margin-top:0.25rem;">The ACM Web Conference (WWW) 2026, to appear.</em>
+    <em style="display:block; margin-top:0.25rem;">The ACM Web Conference (WWW) 2026 <span style="color:blue;">(Oral, 9.4% of submissions)</span></em>
   </li>
   <li style="margin-bottom:1.25rem;">
     <strong>GCON: Differentially Private Graph Convolutional Network via Objective Perturbation</strong> <a href="https://doi.ieeecomputersociety.org/10.1109/ICDE65448.2025.00189" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
     <span style="display:block; margin-top:0.25rem;"><strong>Jianxin Wei</strong>, Yizheng Zhu, Xiaokui Xiao, Ergute Bao, Yin Yang, Kuntai Cai, Beng Chin Ooi</span>
-    <em style="display:block; margin-top:0.25rem;">IEEE International Conference on Data Engineering (ICDE) 2025.</em>
+    <em style="display:block; margin-top:0.25rem;">IEEE International Conference on Data Engineering (ICDE) 2025</em>
   </li>
   <li style="margin-bottom:1.25rem;">
     <strong>DPIS: an Enhanced Mechanism for Differentially Private SGD with Importance Sampling</strong> <a href="https://dl.acm.org/doi/10.1145/3548606.3560562" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
     <span style="display:block; margin-top:0.25rem;"><strong>Jianxin Wei</strong>, Ergute Bao, Xiaokui Xiao, Yin Yang</span>
-    <em style="display:block; margin-top:0.25rem;">ACM Conference on Computer and Communications Security (CCS) 2022.</em>
+    <em style="display:block; margin-top:0.25rem;">ACM Conference on Computer and Communications Security (CCS) 2022</em>
   </li>
   <li style="margin-bottom:1.25rem;">
     <strong>Data Synthesis via Differentially Private Markov Random Fields</strong> <a href="https://dl.acm.org/doi/abs/10.14778/3476249.3476272" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
     <span style="display:block; margin-top:0.25rem;">Kuntai Cai, Xiaoyu Lei, <strong>Jianxin Wei</strong>, Xiaokui Xiao</span>
-    <em style="display:block; margin-top:0.25rem;">International Conference on Very Large Data Bases (VLDB) 2021.</em>
+    <em style="display:block; margin-top:0.25rem;">International Conference on Very Large Data Bases (VLDB) 2021</em>
   </li>
 </ul>
 
