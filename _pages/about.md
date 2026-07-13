@@ -17,9 +17,14 @@ I am currently a postdoctoral researcher at Mohamed bin Zayed University of Arti
 
 <ul class="publication-list" style="list-style:none; padding-left:0;">
   <li style="margin-bottom:1.25rem;">
+    <strong>CTA: Clip-then-Aggregate, a Differentially Private Learning Algorithm for Graph Data</strong> <a href="https://github.com/JianxinWei/SaGD" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
+    <span style="display:block; margin-top:0.25rem;"><strong>Jianxin Wei</strong></span>
+    <em style="display:block; margin-top:0.25rem;">USENIX Security 2026 </em>
+  </li>
+  <li style="margin-bottom:1.25rem;">
     <strong>SaGD: A Node-Level Differentially Private Graph Learning Framework with Sensitivity-Aware Gradient Descent</strong> <a href="https://github.com/JianxinWei/SaGD" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
     <span style="display:block; margin-top:0.25rem;"><strong>Jianxin Wei</strong>, Ergute Bao, Xiaokui Xiao, Ting Yu</span>
-    <em style="display:block; margin-top:0.25rem;">The ACM Web Conference (WWW) 2026 <span style="color:blue;">(Oral, 9.4% of submissions)</span></em>
+    <em style="display:block; margin-top:0.25rem;">The ACM Web Conference (WWW) 2026 <span style="color:blue;">(Oral)</span></em>
   </li>
   <li style="margin-bottom:1.25rem;">
     <strong>GCON: Differentially Private Graph Convolutional Network via Objective Perturbation</strong> <a href="https://doi.ieeecomputersociety.org/10.1109/ICDE65448.2025.00189" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
