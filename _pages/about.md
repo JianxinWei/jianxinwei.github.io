@@ -17,12 +17,12 @@ I am currently a postdoctoral researcher at Mohamed bin Zayed University of Arti
 
 <ul class="publication-list" style="list-style:none; padding-left:0;">
   <li style="margin-bottom:1.25rem;">
-    <strong>CTA: Clip-then-Aggregate, a Differentially Private Learning Algorithm for Graph Data</strong> <a href="https://github.com/JianxinWei/SaGD" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
+    <strong>CTA: Clip-then-Aggregate, a Differentially Private Learning Algorithm for Graph Data</strong> <a href="https://www.usenix.org/system/files/usenixsecurity26-wei-jianxin.pdf" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
     <span style="display:block; margin-top:0.25rem;"><strong>Jianxin Wei</strong></span>
     <em style="display:block; margin-top:0.25rem;">USENIX Security 2026 </em>
   </li>
   <li style="margin-bottom:1.25rem;">
-    <strong>SaGD: A Node-Level Differentially Private Graph Learning Framework with Sensitivity-Aware Gradient Descent</strong> <a href="https://github.com/JianxinWei/SaGD" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
+    <strong>SaGD: A Node-Level Differentially Private Graph Learning Framework with Sensitivity-Aware Gradient Descent</strong> <a href="https://dl.acm.org/doi/10.1145/3774904.3792223" target="_blank" style="margin-left:0.5rem; font-size:0.9em;">[PDF]</a><br>
     <span style="display:block; margin-top:0.25rem;"><strong>Jianxin Wei</strong>, Ergute Bao, Xiaokui Xiao, Ting Yu</span>
     <em style="display:block; margin-top:0.25rem;">The ACM Web Conference (WWW) 2026 <span style="color:blue;">(Oral, 9.4%)</span></em>
   </li>
