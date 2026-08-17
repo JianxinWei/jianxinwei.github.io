@@ -74,7 +74,9 @@ I am currently a postdoctoral researcher at Mohamed bin Zayed University of Arti
 
 ## Professional Service
 
-- Conference Reviewer: VLDB 2026, ICDE 2026, CCS 2025, VLDB 2025, ICLR 2024, ICLR 2022, ICML 2022.
+- **Program Committee Member:** WWW 2026, WSDM 2027, DASFAA 2027, ICDM 2026.
+- **Conference Reviewer:** VLDB 2026, ICDE 2026, CCS 2025, VLDB 2025, ICLR 2024, ICLR 2022, ICML 2022.
+- **Journal Reviewer:** IEEE Transactions on Dependable and Secure Computing (TDSC), 2025–2026.
 
 
 ## Teaching Service
